@@ -1,0 +1,13 @@
+.contianer {
+  width: 100%;
+  margin: 0 !important;
+  padding: 0;
+}
+.hero {
+  border-radius: 0;
+  
+}
+aside.right, aside.left {
+  text-align: center;
+  float: inherit;
+}
